@@ -23,6 +23,13 @@ body {
     overflow: visible;
 }
 
+@media (min-width: 2000px) {
+    .collapsible-section {
+        justify-content: center;
+        padding-left: 0;
+    }
+}
+
 .content-left {
     width: 498px;
     margin-right: 98px;

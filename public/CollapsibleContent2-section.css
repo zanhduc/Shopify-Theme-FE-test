@@ -12,6 +12,8 @@ body {
 
 .package-section {
     width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
     min-height: 1214px;
     padding: 32px 0;
     position: relative;
